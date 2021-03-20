@@ -71,7 +71,7 @@ SOFTWARE.
 
 ## Tests
 
-<!-- The deployed application was tested for mobile resposivness with positive results.  The console log was also reviewed throught out the build process and after deployment through Heroku to address any issues that arose. -->
+The deployed application was tested with positive results.  The console log was also reviewed throught out the build process and after deployment through Heroku to address any issues that arose.
 
 ## Questions
 

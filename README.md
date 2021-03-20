@@ -6,9 +6,21 @@
 
 ## Description
 
-<!-- I was given the assignment through Trilogy/WASHU Coding Bootcamp to "create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). Be sure to follow the MVC design pattern; use Node and MySQL to query and route data in your app, and Handlebars to generate your HTML". The user story is: AS A user, I want to be able to submit a burger name and be able to see it on the left side of screen. I WANT to be able to click a "Devour it!" button and the burger will move to the right side of the page.
+I was given the assignment through Trilogy/WASHU Coding Bootcamp to create a workout tracker.  The front end code in the ```Develop``` folder was provided.  The User story was that, "I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled."
 
-The assignment was provided by Trilogy/WASHU Coding Bootcamp. -->
+The Additional Acceptance criteria was as follows:
+
+WHEN the user loads the page, they should be given the option to create a new workout or continue with their last workout.
+
+The user should be able to:
+
+- Add exercises to the most recent workout plan.
+
+- Add new exercises to a new workout plan.
+
+- View the combined weight of multiple exercises from the past seven workouts on the stats page.
+
+- View the total duration of each workout from the past seven workouts on the stats page.
 
 ## Table of Contents
 

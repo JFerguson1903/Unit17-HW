@@ -32,10 +32,10 @@ The user should be able to:
 
 ## Usage
 
-<!-- [Click here]() to access the deployed application pictured below. Enjoy your burger!
+[Click here](https://stormy-river-30311.herokuapp.com/) to access the deployed application pictured below. Enjoy your burger!
 
-![]()
- -->
+![fitness_tracker](https://user-images.githubusercontent.com/72481828/111888742-5b5b7500-89ad-11eb-956c-504fa65ec625.PNG)
+
 ## Credits
 
 * Project idea provided by © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.

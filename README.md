@@ -32,19 +32,18 @@ The user should be able to:
 
 ## Usage
 
-<!-- [Click here](https://calm-river-53292.herokuapp.com/) to access the deployed application pictured below. Enjoy your burger!
+<!-- [Click here]() to access the deployed application pictured below. Enjoy your burger!
 
-![ScreenShotOfEatdaBurger](https://user-images.githubusercontent.com/72481828/107905874-58d0b000-6f15-11eb-858a-7707a41f8a14.png)
+![]()
  -->
 ## Credits
 
 * Project idea provided by © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 * [Paal Williams](https://github.com/paalwilliams) demonstration to the Bootcamp class.
-<!-- * [Heroku](https://www.heroku.com/)
-* [Bootstrap](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
+* Mongoose documentation on [aggregate functions](https://mongoosejs.com/docs/api.html#aggregate_Aggregate)
+* [Heroku](https://www.heroku.com/)
 * Code derived from Trilogy Unit 13 - Activities - 17 that was taught and worked on in class.
-* [Burger Image](https://www.pngitem.com/middle/Thhom_transparent-background-burger-png-png-download/) was altered to be transparent.
- -->
+
 ## License
 
 MIT License

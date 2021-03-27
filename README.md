@@ -32,7 +32,7 @@ The user should be able to:
 
 ## Usage
 
-[Click here](https://stormy-river-30311.herokuapp.com/) to access the deployed application pictured below. Enjoy your burger!
+[Click here](https://stormy-river-30311.herokuapp.com/) to access the deployed application pictured below.
 
 ![fitness_tracker](https://user-images.githubusercontent.com/72481828/111888742-5b5b7500-89ad-11eb-956c-504fa65ec625.PNG)
 

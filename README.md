@@ -42,7 +42,6 @@ The user should be able to:
 * [Paal Williams](https://github.com/paalwilliams) demonstration to the Bootcamp class.
 * Mongoose documentation on [aggregate functions](https://mongoosejs.com/docs/api.html#aggregate_Aggregate)
 * [Heroku](https://www.heroku.com/)
-* Code derived from Trilogy Unit 13 - Activities - 17 that was taught and worked on in class.
 
 ## License
 
